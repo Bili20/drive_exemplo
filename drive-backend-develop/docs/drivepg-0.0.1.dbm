@@ -3,8 +3,8 @@
 CAUTION: Do not modify this file unless you know what you are doing.
  Unexpected results may occur if the code is changed deliberately.
 -->
-<dbmodel pgmodeler-ver="0.9.4" use-changelog="false" last-position="0,90" last-zoom="0.9" max-obj-count="15"
-	 default-schema="pormade_drive"
+<dbmodel pgmodeler-ver="0.9.4" use-changelog="false" last-position="0,32" last-zoom="0.9" max-obj-count="15"
+	 default-schema="exemplo"
 	 layers="Default layer"
 	 active-layers="0"
 	 layer-name-colors="#000000"
@@ -17,6 +17,9 @@ CAUTION: Do not modify this file unless you know what you are doing.
 </schema>
 
 <schema name="pormade_drive" layers="0" fill-color="#e1e1e1">
+</schema>
+
+<schema name="exemplo" layers="0" rect-visible="true" fill-color="#e1e1e1">
 </schema>
 
 <table name="caminho_servidor" layers="0" collapse-mode="2" max-obj-count="2" z-value="0">
